@@ -1,0 +1,24 @@
+Ignore everything first
+*
+
+But include these important folders
+!src/
+!public/
+!assets/
+!images/
+
+Include specific file types
+!.html
+!.css
+!.js
+!.java
+!.py
+!.md
+
+Exclude system files
+.DS_Store
+Thumbs.db
+
+Exclude node modules and dependencies
+node_modules/
+vendor/
